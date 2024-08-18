@@ -44,3 +44,6 @@ Le plugin utilise un fichier de configuration JSON situé dans le dossier Pompie
     En cas de problème avec le plugin, vérifiez les logs du serveur pour des messages d'erreur éventuels.
 
 Pour toute question ou support, n'hésitez pas à contacter le développeur du plugin.
+
+
+le support/discord : https://discord.gg/GZbwrPNYrS
